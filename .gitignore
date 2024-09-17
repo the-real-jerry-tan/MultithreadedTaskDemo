@@ -1,0 +1,49 @@
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lib
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# CLion-specific files and directories
+.idea/
+cmake-build-*/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.old
+*.swp
+*.swo
+*.swn
+
+# Editor-specific files
+.vscode/
